@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/IaroslavLasiichuk/svg-logo-maker/issues"
   },
-  "homepage": "https://github.com/IaroslavLasiichuk/svg-logo-maker#readme"
+  "homepage": "https://github.com/IaroslavLasiichuk/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
