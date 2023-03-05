@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "## Your Task",
+  "description": "svg logo maker",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/IaroslavLasiichuk/svg-logo-maker.git"
   },
   "author": "iaroslav",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IaroslavLasiichuk/svg-logo-maker/issues"
   },
