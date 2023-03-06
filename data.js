@@ -5,23 +5,20 @@ const questions = [
       name: "text",
       message: "Please enter up to three characters:",
       validate(value) {
-          if (value.length <= 3) {
-            return true;
-          }
-          return 'Please enter up to three characters:';
-      },
+        return (value.length <= 3) ? true : 'Please enter up to three characters:';
+      }
     },
     // Text color
     {
       type: "input",
       name: "color",
-      message: "Please can enter a text color keyword:",
+      message: "Please can enter a text color keyword or a hexadecimal number:",
     },
     // Background
     {
       type: "input",
       name: "background",
-      message: "Please enter background color keyword:",
+      message: "Please enter background color keyword or a hexadecimal number:",
     },
     // Shapes
     {
