@@ -4,7 +4,7 @@ This command-line tool is designed for freelance web developers who want to gene
 
 ## Link
 Link to walkthrough video that demonstrates the functionality of the README generator.
-> https://drive.google.com/file/d/13CvxSC77fDM895vwXllUbjb_0m-E40hM/view
+> https://drive.google.com/file/d/1lkJcFLsHy8FMPT0o2armtAIe102-orXG/view
 
 ## Requirements
 * Node.js v16
