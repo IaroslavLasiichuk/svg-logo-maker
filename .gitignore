@@ -107,3 +107,5 @@ node_modules/
 
 # Ds Store
 .DS_Store
+# Vs Code
+.vscode/
