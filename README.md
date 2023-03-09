@@ -34,7 +34,7 @@ Link to walkthrough video that demonstrates the functionality of the README gene
 > * Open the logo.svg file to view the generated logo.
 
 ## Screenshot
-![Screenshot](./assets/img/logo-example.png)
+![Screenshot](./assets/img/logo_screenshot.png)
 
 ## Test
 
